@@ -1,0 +1,16 @@
+*.pyc
+__pycache__/
+*.so
+*.o
+*.out
+*.log
+results/
+figures/
+.DS_store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.hdf5
+*.nc
+data/raw/
