@@ -3,3 +3,14 @@ __pycache__/
 .DS_Store
 venv/
 .env/
+# SLURM and scratch logs (we keep curated logs under logs/task2|task3)
+*.out
+*.err
+slurm-*.out
+analysis_*.out
+analysis_*.err
+bigdata_*.out
+bigdata_*.err
+__pycache__/
+*.pyc
+venvs/
