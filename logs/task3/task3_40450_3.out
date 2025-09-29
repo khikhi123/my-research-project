@@ -1,0 +1,7 @@
+RID=40450_3 CSV_cpus=4 MODE=parallel  SLURM_CPUS_PER_TASK=8
+shape=256,256,128  sigma=0.8  n_vols=8
+HAVE_SCIPY=False  MODE=parallel  CPUS=4  N_VOLS=8  SHAPE=(256, 256, 128)  SIGMA=0.8
+Starting...
+[PARALLEL] workers=4 total_sec=4.628  per_vol_median=2.287
+Done in 4.628s
+DONE RID=40450_3 cpus=4 sigma=0.8
