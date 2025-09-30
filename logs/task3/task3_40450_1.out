@@ -1,0 +1,7 @@
+RID=40450_1 CSV_cpus=1 MODE=serial  SLURM_CPUS_PER_TASK=8
+shape=256,256,128  sigma=0.8  n_vols=8
+HAVE_SCIPY=False  MODE=serial  CPUS=1  N_VOLS=8  SHAPE=(256, 256, 128)  SIGMA=0.8
+Starting...
+[SERIAL] total_sec=17.428  per_vol_median=2.178
+Done in 17.504s
+DONE RID=40450_1 cpus=1 sigma=0.8

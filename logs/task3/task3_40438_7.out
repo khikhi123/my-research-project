@@ -1,0 +1,5 @@
+HAVE_SCIPY=False  MODE=parallel  CPUS=4  N_VOLS=8  SHAPE=(256, 256, 128)  SIGMA=1.2
+Starting...
+[PARALLEL] workers=4 total_sec=18.853  per_vol_median=9.348
+Done in 18.854s
+DONE RID=40438_7 cpus=4 sigma=1.2

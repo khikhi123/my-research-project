@@ -1,0 +1,5 @@
+HAVE_SCIPY=False  MODE=serial  CPUS=1  N_VOLS=8  SHAPE=(256, 256, 128)  SIGMA=1.2
+Starting...
+[SERIAL] total_sec=18.494  per_vol_median=2.321
+Done in 18.572s
+DONE RID=40438_5 cpus=1 sigma=1.2

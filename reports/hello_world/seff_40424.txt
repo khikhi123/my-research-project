@@ -1,0 +1,10 @@
+Job ID: 40424
+Cluster: talc-admin
+User/Group: khiran.arumugam/khiran.arumugam
+State: COMPLETED (exit code 0)
+Cores: 1
+CPU Utilized: 00:00:00
+CPU Efficiency: 0.00% of 00:00:01 core-walltime
+Job Wall-clock time: 00:00:01
+Memory Utilized: 872.00 KB
+Memory Efficiency: 0.08% of 1.00 GB (1.00 GB/core)
